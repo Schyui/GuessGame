@@ -1,0 +1,17 @@
+H:\Console Py-C#\GuessingApp\GuessingApp\bin\Debug\net8.0-windows\GuessingApp.exe
+H:\Console Py-C#\GuessingApp\GuessingApp\bin\Debug\net8.0-windows\GuessingApp.deps.json
+H:\Console Py-C#\GuessingApp\GuessingApp\bin\Debug\net8.0-windows\GuessingApp.runtimeconfig.json
+H:\Console Py-C#\GuessingApp\GuessingApp\bin\Debug\net8.0-windows\GuessingApp.dll
+H:\Console Py-C#\GuessingApp\GuessingApp\bin\Debug\net8.0-windows\GuessingApp.pdb
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.Form1.resources
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.csproj.GenerateResource.cache
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.AssemblyInfoInputs.cache
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.AssemblyInfo.cs
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.csproj.CoreCompileInputs.cache
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.dll
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\refint\GuessingApp.dll
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.pdb
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.genruntimeconfig.cache
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\ref\GuessingApp.dll
+H:\Console Py-C#\GuessingApp\GuessingApp\obj\Debug\net8.0-windows\GuessingApp.Properties.Resources.resources
